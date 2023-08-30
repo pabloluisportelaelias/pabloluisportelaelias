@@ -18,10 +18,39 @@
  </div>
 
 
+### Main skills:                                                                                               
+<div align="center">
+   
+ </td>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+</div>
+
+
 ### Studying in this moment:
+<div align="center">
+   </a>
+    </td>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="57" />
+     </a>
+    </td>
+   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+    </td>
 
-![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
+
+
+![city-min](https://github.com/MMVonnSeek/MMVonnSeek/assets/89359847/c039f86c-9189-4c37-b883-bcc7f85a4ece)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
