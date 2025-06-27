@@ -17,7 +17,8 @@ Sou um profissional com mais de 10 anos de experiência em Tecnologia da Informa
 
 Atualmente, atuo como **Analista de Suporte** na **Embrapii**, contribuindo para a implementação de soluções seguras, gestão de incidentes e proteção de dados críticos.
 
-🎓 **Formação:**  
+🎓 **Formação:**
+
 - Cursando **Análise e Desenvolvimento de Sistemas** – UniFatecie
 
 🛡️ **Certificações e Estudos Atuais:**  
