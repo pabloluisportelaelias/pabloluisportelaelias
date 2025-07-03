@@ -34,7 +34,7 @@ Atualmente, atuo como **Analista de Suporte** na **Embrapii**, contribuindo para
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,powershell,html,css,git,windows,vscode,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,powershell,html,css,git,windows,vscode" />
 </p>
 
 ---
